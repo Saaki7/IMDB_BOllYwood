@@ -13,9 +13,10 @@ With the library beautiful soup, scrapping has been made easier collecting every
 
 Me as a novice, this data preprocessing part took me a whole lot of time involving changing types of data for calculations and creating new columns. Data collected from scrapping required more preprocessing to be done. Check my [jupyter_Notebook](Contelligenz_Eda_py.ipynb) on EDA and Preprocessing.
 
-#Bar Chart Showing the number of movies made by top 10 people
 
-![Barchart]()
+# Bar Chart Showing the number of movies made by top 10 people
+
+![Barchart](/Data/download1.png)
 
 
 
