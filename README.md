@@ -23,10 +23,10 @@ I observed this is the beauty, since we can construct a for loop for changing on
 
 ## Data Pre-Processing
 
-Me as a novice, this data preprocessing part took me a whole lot of time involving changing types of data for calculations and creating new columns. Data collected from scrapping required more preprocessing to be done. Check my [jupyter_Notebook](Contelligenz_Eda_py.ipynb) on EDA and Preprocessing.
+Me as a novice, I took this data preprocessing part a whole lot of time involving changing types of data for calculations and creating new columns. Data collected from scrapping required more preprocessing to be done. Check my [jupyter_Notebook](Contelligenz_Eda_py.ipynb) on EDA and Preprocessing.
 
 
-# Bar Chart Showing the number of movies made by top 10 people
+### Bar Chart Showing the number of movies made by top 10 people :relaxed:
 
 ![Barchart](/Data/download1.png)
 
