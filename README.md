@@ -7,10 +7,15 @@ I have used bs4 library containing Beautifulsoup in order to collect data from t
 
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
 With the library beautiful soup, scrapping has been made easier collecting every records of each movie available in the page by creating loops for 3000 movies.
+[JupyterNotebook](web_Scrapper-main)
 
 ## Data Pre-Processing
 
-Me as a novice, this data preprocessing part took me a whole lot of time involving changing types of data for calculations and creating new columns. Data collected from scrapping required more preprocessing to be done. You can check my  
+Me as a novice, this data preprocessing part took me a whole lot of time involving changing types of data for calculations and creating new columns. Data collected from scrapping required more preprocessing to be done. Check my [jupyter_Notebook](Contelligenz_Eda_py.ipynb) on EDA and Preprocessing.
+
+#Bar Chart Showing the number of movies made by top 10 people
+
+![Barchart]()
 
 
 
