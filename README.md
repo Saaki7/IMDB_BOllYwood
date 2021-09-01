@@ -7,7 +7,19 @@ I have used bs4 library containing Beautifulsoup in order to collect data from t
 
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
 With the library beautiful soup, scrapping has been made easier collecting every records of each movie available in the page by creating loops for 3000 movies.
-[JupyterNotebook](web_Scrapper-main)
+
+
+https://www.imdb.com/search/title/?title_type=feature&primary_language=hi&sort=num_votes,desc
+
+This is the link of the first page which contained only 50 movies and carefully observe the link of 2nd page starting 51 and ending with 100 movies.
+
+https://www.imdb.com/search/title/?title_type=feature&primary_language=hi&sort=num_votes,desc&start=51&ref_=adv_nxt
+
+The only difference is that '&start=51&ref_=adv_nxt' part is added in the link..
+
+similarly check the next link starting from 101. https://www.imdb.com/search/title/?title_type=feature&primary_language=hi&sort=num_votes,desc&start=101&ref_=adv_nxt
+
+So we have to construct a for loop. Check my [web scrapping JupyterNotebook](web_Scrapper-main) for clear knowledge.
 
 ## Data Pre-Processing
 
