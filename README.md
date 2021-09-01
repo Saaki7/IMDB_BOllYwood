@@ -19,7 +19,7 @@ The only difference is that '&start=51&ref_=adv_nxt' part is added in the link..
 
 similarly check the next link starting from 101. https://www.imdb.com/search/title/?title_type=feature&primary_language=hi&sort=num_votes,desc&start=101&ref_=adv_nxt
 
-So we have to construct a for loop. Check my [web scrapping JupyterNotebook](web_Scrapper-main) for clear knowledge.
+I observed this is the beauty, since we can construct a for loop for changing one page to another. Check my [web scrapping JupyterNotebook](web_Scrapper-main) for clear knowledge.
 
 ## Data Pre-Processing
 
