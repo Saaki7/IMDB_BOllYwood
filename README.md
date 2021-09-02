@@ -29,7 +29,8 @@ Me as a novice :cry:, I took this data preprocessing part a whole lot of time in
 
 Popularity score of each movie is calulated using weighted average formula. I got this knowledge from this [page](http://trailerpark.weebly.com/imdb-rating.html?source=post_page)
 The formula for the mentioned score is as follows.
-[Formulapic]()
+
+![Formulapic](/Data/weighteavg.png)
 
 ### Bar Chart Showing the number of movies made by top 10 people :relaxed:
 
