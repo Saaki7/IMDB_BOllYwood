@@ -32,6 +32,9 @@ The formula for the mentioned score is as follows.
 
 ![Formulapic](/Data/weighteavg.png)
 
+
+This is the perfect Score, we can calculate from the given no of votes and rating of each movie
+
 ### Bar Chart Showing the number of movies made by top 10 people :relaxed:
 
 ![Barchart](/Data/download1.png)
