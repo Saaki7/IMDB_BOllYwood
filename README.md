@@ -33,7 +33,13 @@ The formula for the mentioned score is as follows.
 ![Formulapic](/Data/weighteavg.png)
 
 
-This is the perfect Score, we can calculate from the given no of votes and rating of each movie
+This is the perfect Score, we can calculate from the given no of votes and rating of each movie. Here is the list of top 10 movies based on my popularity score.
+
+![is](/Data/Capture.PNG)
+
+#### Analysis for showing top actors acted in most movies
+
+I followed a basic string concatenation and list splitting for counting the movies acted by each actor.
 
 ### Bar Chart Showing the number of movies made by top 10 people :relaxed:
 
